@@ -4,8 +4,7 @@ This project is a **simple online resume** created using only **HTML**. It serve
 
 🌐 **Live Preview**: [View Resume](https://kushwith03.github.io/online-resume/)  
 📸 **Preview Screenshot**:  
-![Preview](preview.png)
-
+<img src="preview.png" alt="Resume Preview" width="600"/>
 ---
 
 ## 📚 About This Project
