@@ -18,6 +18,7 @@ This is a simple **online resume** created using only **HTML**. It was built as 
 ## 🗂️ File Structure
 
 online-resume/
+|
 ├── index.html # Resume content
 └── Photo.jpg # Profile image
 
