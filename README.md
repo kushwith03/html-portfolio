@@ -1,41 +1,61 @@
-# 🧾 Online Resume (Basic HTML)
+# 🧾 Online Resume (HTML Only)
 
-This is a simple **online resume** created using only **HTML**. It was built as part of my early web development learning journey while studying from **Apna College** and **Udemy's Web Development Bootcamp by Dr. Angela Yu**.
-
-> This version is static and not yet responsive. I’ll improve it over time by adding CSS styling, layout enhancements, and interactivity.
-
----
-
-## 📄 What It Contains
-
-- My name and a short introduction
-- Education details
-- Interests
-- Embedded profile photo
+This project is a simple **online resume** created using only **HTML**.  
+It was built as part of my **Web Development journey**, while learning from **Apna College** and **Dr. Angela Yu's Web Development Bootcamp on Udemy**.
 
 ---
 
-## 🗂️ File Structure
+## 📄 What it Contains
 
-online-resume/
-|
-├── index.html # Resume content
-└── Photo.jpg # Profile image
-
-## 🛣️ Next Steps
-
-- Add CSS for styling and layout
-- Make it responsive for mobile devices
-- Host it on GitHub Pages
+- Personal introduction  
+- Education details  
+- Hobbies and interests  
+- Profile photo  
 
 ---
 
-## 📬 Contact
+## 🗂️ Folder Structure
+
+```
+html-portfolio/
+│
+├── index.html         # Main HTML resume file
+├── Photo.jpg          # Your profile photo
+└── screenshot.png     # (Optional) Preview image for this README
+```
+
+---
+
+## 🔗 Live Project Link
+
+**GitHub Pages Deployment:**  
+👉 [Click here to view the live resume](https://kushwith03.github.io/html-portfolio/)
+
+---
+
+## 📸 Preview Screenshot
+
+> *Note: Make sure `screenshot.png` is present in the root folder.*
+
+![Resume Preview](./screenshot.png)
+
+---
+
+## 🛣️ What's Next?
+
+- ✅ Add CSS for styling and layout  
+- ✅ Host on GitHub Pages  
+- ✅ Make responsive for all devices 
+
+---
+
+## 📬 Contact Me
 
 - 📧 Email: kushwith03@gmail.com  
-- 🔗 LinkedIn: [kushwith03](https://www.linkedin.com/in/kushwith03)  
-- 💻 LeetCode: [kushwith_03](https://leetcode.com/u/kushwith_03)
+- 🔗 LinkedIn: [linkedin.com/in/kushwith03](https://www.linkedin.com/in/kushwith03)  
+- 💻 LeetCode: [leetcode.com/u/kushwith_03](https://leetcode.com/u/kushwith_03)
 
 ---
 
-> 🧠 This resume is a small step in my full-stack web development journey — more to come!
+> 🚀 *This is one of my first web projects — more polished and interactive ones coming soon!*  
+
