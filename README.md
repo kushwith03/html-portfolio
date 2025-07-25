@@ -35,10 +35,8 @@ html-portfolio/
 
 ## 📸 Preview Screenshot
 
-> *Note: Make sure `screenshot.png` is present in the root folder.*
-
 <p align="center">
-  <img src="./screenshot.png" alt="Resume Preview" width="600px">
+  <img src="./screenshot.png" alt="Resume Preview" width="500px">
 </p>
 
 ## 🛣️ What's Next?
