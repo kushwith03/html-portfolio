@@ -1,59 +1,48 @@
-# 🧾 Online Resume (HTML Only)
+# 🧾 Online Resume – HTML Version
 
-This project is a simple **online resume** created using only **HTML**.  
-It was built as part of my **Web Development journey**, while learning from **Apna College** and **Dr. Angela Yu's Web Development Bootcamp on Udemy**.
+This project is a **simple online resume** created using only **HTML**. It serves as a personal portfolio to showcase my skills, education, and background. This is one of my early web development projects, built as I continue my journey into frontend development.
 
----
-
-## 📄 What it Contains
-
-- Personal introduction  
-- Education details  
-- Hobbies and interests  
-- Profile photo  
+🌐 **Live Preview**: [View Resume](https://kushwith03.github.io/online-resume/)  
+📸 **Preview Screenshot**:  
+![Preview](preview.png)
 
 ---
 
-## 🗂️ Folder Structure
+## 📚 About This Project
+
+- A fully static resume built with basic semantic HTML
+- Shows structured personal information, skills, education, and contact links
+- No CSS or JS – focused purely on practicing HTML formatting
+
+---
+
+## 🧠 Key Features
+
+- Clean structure using HTML5 semantic tags (`<header>`, `<main>`, `<section>`, `<footer>`)
+- Contact links (Email, GitHub, LinkedIn, LeetCode)
+- Includes education history, certifications, skills, and hobbies
+- Easily expandable with CSS and interactivity in the future
+
+---
+
+## 📁 Folder Structure
 
 ```
-html-portfolio/
-│
-├── index.html         # Main HTML resume file
-├── Photo.jpg          # Your profile photo
-└── screenshot.png     # (Optional) Preview image for this README
+online-resume/
+├── index.html # Main HTML file
+├── preview.png # Screenshot for README preview
+└── README.md # Project description
 ```
-
----
-
-## 🔗 Live Project Link
-
-**GitHub Pages Deployment:**  
-👉 [Click here to view the live resume](https://kushwith03.github.io/html-portfolio/)
-
----
-
-## 📸 Preview Screenshot
-
-<p align="center">
-  <img src="./screenshot.png" alt="Resume Preview" width="500px">
-</p>
-
-## 🛣️ What's Next?
-
-- ✅ Add CSS for styling and layout  
-- ✅ Host on GitHub Pages  
-- ✅ Make responsive for all devices 
-
 ---
 
 ## 📬 Contact Me
 
-- 📧 Email: kushwith03@gmail.com  
-- 🔗 LinkedIn: [linkedin.com/in/kushwith03](https://www.linkedin.com/in/kushwith03)  
-- 💻 LeetCode: [leetcode.com/u/kushwith_03](https://leetcode.com/u/kushwith_03)
+- 📧 Email: [kushwith03@gmail.com](mailto:kushwith03@gmail.com)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/kushwith03)  
+- 🐙 [GitHub](https://github.com/kushwith03)  
+- 🧠 [LeetCode](https://leetcode.com/u/kushwith_03)
 
 ---
 
-> 🚀 *This is one of my first web projects — more polished and interactive ones coming soon!*  
+> 💡 This resume is a reflection of my ongoing progress in web development. I’m continuously learning and will update this as I grow in skills and experience.
 
