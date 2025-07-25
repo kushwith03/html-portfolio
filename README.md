@@ -37,9 +37,9 @@ html-portfolio/
 
 > *Note: Make sure `screenshot.png` is present in the root folder.*
 
-![Resume Preview](./screenshot.png)
-
----
+<p align="center">
+  <img src="./screenshot.png" alt="Resume Preview" width="600px">
+</p>
 
 ## 🛣️ What's Next?
 
